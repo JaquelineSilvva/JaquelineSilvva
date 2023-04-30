@@ -1,4 +1,4 @@
-# Olá Humano 👋
+# Olá, Seja Bem Vindo! 👋
 
 - Atualmente, cursando Analise e Desenvolvimento de Sistemas na Unifatecie. Resido no Paraná, e apaixonada por programação.
 
